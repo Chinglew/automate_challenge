@@ -1,6 +1,6 @@
 .venv
 selenium-screenshot-*.png
 .DS_Store
-log.htm
+log.html
 output.xml
 report.html
