@@ -1,0 +1,6 @@
+.venv
+selenium-screenshot-*.png
+.DS_Store
+log.htm
+output.xml
+report.html
